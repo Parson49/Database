@@ -9,7 +9,7 @@ namespace NovelInfo
 {
     //******************************
     // Title: Novel Info
-    // Description: Stores and organizes persisting data for user's novel
+    // Description: Stores and organizes persisting data for user's creation
     // Author: Anna Parsons
     // Date Created: 11/11/19
     // Date Modified:
