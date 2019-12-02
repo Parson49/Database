@@ -1,0 +1,8 @@
+﻿Wei Ying,Wei Wuxian,17,Yunmeng_Jiang,false
+Lan Zhan,Lan Wangji,16,Gusu_Lan,true
+Jiang Cheng,Jiang Wanyin,16,Yunmeng_Jiang,true
+Lan Huan,Lan Xichen,19,Gusu_Lan,true
+Jiang Yanli,N/A,18,Yunmeng_Jiang,false
+Jin Zixuan,N/A,20,Lanling_Jin,false
+Nie Huaisang,N/A,17,Qinghe_Nie,true
+Lan Yuan,Lan Sizhui,16,Gusu_Lan,true
